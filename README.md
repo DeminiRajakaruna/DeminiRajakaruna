@@ -1,4 +1,4 @@
-### 👋 Hello and welcome to My GitHub 
+### 👋 Hello , Welcome to My GitHub 
 
 📌 I'm Demini Rajakaruna. STEAM undergraduate with creative problem-solving skills shows the capacity to manage projects with a positive outlook and a hard-work culture. I enjoy coming up with new ideas to
 conserve the time and energy of living beings.
@@ -20,5 +20,6 @@ conserve the time and energy of living beings.
 
 ### Socials
 
-*  <img src="https://https://www.linkedin.com/in/demini-rajakaruna-90261b243/.com/assets/img/icons/linkedin.png" height="20"/>&nbsp; [LinkedIn](https://https://www.linkedin.com/in/demini-rajakaruna-90261b243/.com/assets/img/icons/linkedin.png)
+*  <img src="![image](https://github.com/DeminiRajakaruna/DeminiRajakaruna/assets/108298559/db14fa5e-06db-4732-85b5-9c23f53fbaa8)
+" height="20"/>&nbsp; [LinkedIn](https://https://www.linkedin.com/in/demini-rajakaruna-90261b243/.com/assets/img/icons/linkedin.png)
 * 
