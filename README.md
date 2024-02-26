@@ -15,12 +15,12 @@ conserve the time and energy of living beings.
 
 ### My Repositories
 
- * 🍃[Fitness Guardian]()
- * 🍂[Maze Game]()
- * 🍃[Web Cart for Hospitals]()
- * 🍂[Green Dinosaur Game]()
- * 🍃[School Club Management System]()
- * 🍂[Car Service Management System]()
+ * 💡[Fitness Guardian]()
+ * 💡[Maze Game]()
+ * 💡[Web Cart for Hospitals]()
+ * 💡[Green Dinosaur Game]()
+ * 💡[School Club Management System]()
+ * 💡[Car Service Management System]()
 
 
 
