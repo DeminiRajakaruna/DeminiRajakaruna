@@ -1,6 +1,6 @@
 
 
-### 👋 Hello , Welcome to My GitHub 
+### 👋🏽 Hello , Welcome to My GitHub 
 
 
 📌 I'm Demini Rajakaruna. STEAM undergraduate with creative problem-solving skills shows the capacity to manage projects with a positive outlook and a hard-work culture. I enjoy coming up with new ideas to
