@@ -20,6 +20,5 @@ conserve the time and energy of living beings.
 
 ### Socials
 
-*  <img src="![image](https://github.com/DeminiRajakaruna/DeminiRajakaruna/assets/108298559/db14fa5e-06db-4732-85b5-9c23f53fbaa8)
-" height="20"/>&nbsp; [LinkedIn](https://https://www.linkedin.com/in/demini-rajakaruna-90261b243/.com/assets/img/icons/linkedin.png)
+*
 * 
