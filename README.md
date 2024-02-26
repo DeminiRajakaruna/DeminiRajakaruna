@@ -10,14 +10,15 @@ conserve the time and energy of living beings.
 
 ### My Repositories
 
-🍃[Fitness Guardian]()
- 🍂[Maze Game]()
- 🍃[Web Cart for Hospitals]()
- 🍂[Green Dinosaur Game]()
- 🍃[School Club Management System]()
- 🍂[Car Service Management System]()
+ * 🍃[Fitness Guardian]()
+ * 🍂[Maze Game]()
+ * 🍃[Web Cart for Hospitals]()
+ * 🍂[Green Dinosaur Game]()
+ * 🍃[School Club Management System]()
+ * 🍂[Car Service Management System]()
 
 
-###Socials 
+### Socials
 
-[[LinkedIn](https://img.shields.io/badge/LinkedIn-<https://www.linkedin.com/in/demini-rajakaruna-90261b243/>-blue.svg)](https://www.linkedin.com/in/<https://www.linkedin.com/in/demini-rajakaruna-90261b243/>/)
+*  <img src="https://https://www.linkedin.com/in/demini-rajakaruna-90261b243/.com/assets/img/icons/linkedin.png" height="20"/>&nbsp; [LinkedIn](https://https://www.linkedin.com/in/demini-rajakaruna-90261b243/.com/assets/img/icons/linkedin.png)
+* 
