@@ -20,4 +20,4 @@ conserve the time and energy of living beings.
 
 ### Socials
 
-*[![LinkedIn](path/to/your/linkedin/icon.png)](https://www.linkedin.com/in/https://www.linkedin.com/in/demini-rajakaruna-90261b243//)
+*(https://github.com/DeminiRajakaruna/DeminiRajakaruna/blob/main/Linkedin-Logo-2011.png)](https://www.linkedin.com/in/https://www.linkedin.com/in/demini-rajakaruna-90261b243//)
