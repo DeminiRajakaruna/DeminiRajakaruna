@@ -38,7 +38,7 @@ conserve the time and energy of living beings.
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"> </code>
    <code> <img height="50" src=""> </code>
   <hr>
-
+---
 
 ### My stats
 
@@ -46,7 +46,7 @@ conserve the time and energy of living beings.
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeminiRajakaruna&&exclude_repo=DeminiRajakaruna&layout=compact&theme=dracula" alt="languages"/>
 
 
-  
+--  
   
 
 
