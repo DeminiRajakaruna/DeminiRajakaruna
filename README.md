@@ -41,7 +41,7 @@ conserve the time and energy of living beings.
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"> </code>
   <code> <img height="50" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Figma-Dark.svg"> </code>
   <code> <img height="50" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Flutter-Light.svg"> </code>
-  <code> <img height="50" src="https://github.com/Scar1109/skill-icons/blob/main/icons/PHP-Light.svg"> </code>
+  <code> <img height="50" src="https://github.com/Scar1109/skill-icons/blob/main/icons/PHP-Dark.svg"> </code>
   <code> <img height="50" src="https://github.com/Scar1109/skill-icons/blob/main/icons/R-Dark.svg"> </code>
   <code> <img height="50" src=""> </code>
   <code> <img height="50" src=""> </code>
