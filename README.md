@@ -7,7 +7,13 @@
 📌 I'm Demini Rajakaruna. STEAM undergraduate with creative problem-solving skills shows the capacity to manage projects with a positive outlook and a hard-work culture. I enjoy coming up with new ideas to
 conserve the time and energy of living beings.
 
-<code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/git.svg"></code>
+
+
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
+<p align="left">
+  
+
+  <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/git.svg"></code>
   <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/python-icon.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> </code>
   <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Spyder_logo.svg"> </code>
