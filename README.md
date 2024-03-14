@@ -1,8 +1,10 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-![Dee](https://raw.g![git](https://github.com/DeminiRajakaruna/DeminiRajakaruna/assets/108298559/6d6c0856-5bcb-4aa6-a000-99d45d6f019f)
-ithubusercontent.com/)
+
+![git](https://github.com/DeminiRajakaruna/DeminiRajakaruna/assets/108298559/f2ba2bc4-580e-4d69-a770-6b9588838b7f)
+
+
 
 ### 👋🏽 Hello , Welcome to My GitHub 
 
