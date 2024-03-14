@@ -13,7 +13,7 @@
 📌 I'm Demini Rajakaruna. STEAM undergraduate with creative problem-solving skills shows the capacity to manage projects with a positive outlook and a hard-work culture. I enjoy coming up with new ideas to
 conserve the time and energy of living beings.
 
-
+<hr>
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
 <p align="left">
