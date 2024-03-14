@@ -45,8 +45,7 @@ conserve the time and energy of living beings.
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=DeminiRajakaruna&show_icons=true&include_all_commits=true&theme=dracula" alt="GitHub stats" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeminiRajakaruna&&exclude_repo=DeminiRajakaruna&layout=compact&theme=dracula" alt="languages"/>
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
-<p align="left">
+
   
   
 
