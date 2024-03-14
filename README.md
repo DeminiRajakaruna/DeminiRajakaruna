@@ -43,7 +43,7 @@ conserve the time and energy of living beings.
    <code> <img height="50" src=""> </code>
   <hr>
 
-### My stats
+### My Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DeminiRajakaruna&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![DeminiRajakaruna GitHub stats](https://github-readme-stats.vercel.app/api?username=DeminiRajakaruna&theme=algolia)](https://github.com/DeminiRajakaruna/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeminiRajakaruna&theme=algolia)](https://github.com/DeminiRajakaruna/github-readme-stats) 
 
