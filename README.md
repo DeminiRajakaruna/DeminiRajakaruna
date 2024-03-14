@@ -46,19 +46,18 @@ conserve the time and energy of living beings.
  
   <hr>
 
-### My Stats
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My Stats...***
+<p align="left">
+
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DeminiRajakaruna&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![DeminiRajakaruna GitHub stats](https://github-readme-stats.vercel.app/api?username=DeminiRajakaruna&theme=algolia)](https://github.com/DeminiRajakaruna/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeminiRajakaruna&theme=algolia)](https://github.com/DeminiRajakaruna/github-readme-stats) 
 
-<br>
-
-
-
-
-  
+<br>  
 <hr>
 
-### My Repositories
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My Repositories...***
+<p align="left">
+
 
  * 💡[Fitness Guardian]()
  * 💡[Maze Game]()
