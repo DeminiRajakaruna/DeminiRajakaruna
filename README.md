@@ -67,7 +67,8 @@ conserve the time and energy of living beings.
  * 💡[Car Service Management System]()
 
 <hr>
-<h3 align="center">Support:</h3>
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Support...***
+<p align="left">
 <p align="center"><a href="https://www.buymeacoffee.com/"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="" /></a></p>
 
 
