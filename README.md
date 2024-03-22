@@ -45,7 +45,7 @@ conserve the time and energy of living beings.
   <code> <img height="50" src="https://github.com/Scar1109/skill-icons/blob/main/icons/R-Dark.svg"> </code>
   <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg"> </code>
-  <code> <img height="50" src=""> </code>
+  <code> <img height="50" src="https://images.search.yahoo.com/search/images;_ylt=Awr99tbCOP1lkdIAwbNXNyoA;_ylu=Y29sbwNncTEEcG9zAzEEdnRpZAMEc2VjA3BpdnM-?p=power+BI+LOgo&fr2=piv-web&type=E210US91213G0&fr=mcafee#id=1&iurl=https%3A%2F%2F1000logos.net%2Fwp-content%2Fuploads%2F2022%2F08%2FMicrosoft-Power-BI-Logo.jpg&action=click"> </code>
   <code> <img height="50" src=""> </code>
  
   <hr>
