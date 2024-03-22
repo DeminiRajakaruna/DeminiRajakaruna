@@ -35,7 +35,7 @@ conserve the time and energy of living beings.
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> </code>
   <code> <img height="50" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Docker.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> </code>
+  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"> </code>
   <code> <img height="50" src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"> </code>
@@ -43,6 +43,10 @@ conserve the time and energy of living beings.
   <code> <img height="50" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Flutter-Light.svg"> </code>
   <code> <img height="50" src="https://github.com/Scar1109/skill-icons/blob/main/icons/PHP-Dark.svg"> </code>
   <code> <img height="50" src="https://github.com/Scar1109/skill-icons/blob/main/icons/R-Dark.svg"> </code>
+  <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg"> </code>
+  <code> <img height="50" src=""> </code>
+  <code> <img height="50" src=""> </code>
  
   <hr>
 
