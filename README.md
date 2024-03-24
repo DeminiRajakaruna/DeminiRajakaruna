@@ -1,5 +1,5 @@
 <!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/11583447![Blue Clouds Starry Sky White Dots Poster Background Wallpaper Image For Free Download - Pngtree](https://github.com/DeminiRajakaruna/DeminiRajakaruna/assets/108298559/57445ca0-0996-4ec6-903a-f2ce677b4b5c)
+(https://github.com/DeminiRajakaruna/DeminiRajakaruna/assets/108298559/57445ca0-0996-4ec6-903a-f2ce677b4b5c)
 7-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
