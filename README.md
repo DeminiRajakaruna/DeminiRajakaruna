@@ -1,6 +1,5 @@
 <!--horizontal divider(gradiant)-->
-(https://github.com/DeminiRajakaruna/DeminiRajakaruna/assets/108298559/57445ca0-0996-4ec6-903a-f2ce677b4b5c)
-7-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 
 ![git new](https://github.com/DeminiRajakaruna/DeminiRajakaruna/assets/108298559/c53d38e0-79af-481b-85a6-b05fb43bf9a7)
