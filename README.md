@@ -3,7 +3,7 @@
 
 
 
-![git new](https://github.com/DeminiRajakaruna/DeminiRajakaruna/assets/108298559/c53d38e0-79af-481b-85a6-b05fb43bf9a7)
+#![git new](https://github.com/DeminiRajakaruna/DeminiRajakaruna/assets/108298559/c53d38e0-79af-481b-85a6-b05fb43bf9a7)
 
 
 
