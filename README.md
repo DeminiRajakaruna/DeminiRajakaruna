@@ -29,7 +29,7 @@ conserve the time and energy of living beings.
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"> </code>
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> </code>
-  <code> <img height="50" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Docker.svg"> </code>
+  <code> <img height="50" src="https://images.search.yahoo.com/search/images;_ylt=AwrO_o3W.gxmrgQAgZRXNyoA;_ylu=Y29sbwNncTEEcG9zAzEEdnRpZAMEc2VjA3BpdnM-?p=devops+icon&fr2=piv-web&type=E210US91213G0&fr=mcafee#id=16&iurl=https%3A%2F%2Fwww.vlrtraining.in%2Fwp-content%2Fuploads%2F2020%2F10%2Flogo-devops.png&action=click"> </code>
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"> </code>
   <code> <img height="50" src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png"> </code>
