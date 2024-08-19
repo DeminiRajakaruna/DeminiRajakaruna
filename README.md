@@ -49,7 +49,10 @@ conserve the time and energy of living beings.
 <p align="left">
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DeminiRajakaruna&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![DeminiRajakaruna GitHub stats](https://github-readme-stats.vercel.app/api?username=DeminiRajakaruna&theme=algolia)](https://github.com/DeminiRajakaruna/github-readme-stats) 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DeminiRajakaruna&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeminiRajakaruna&&exclude_repo=DeminiRajakaruna&layout=compact&theme=dracula" alt="languages"/>
+
+[![DeminiRajakaruna GitHub stats](https://github-readme-stats.vercel.app/api?username=DeminiRajakaruna&theme=algolia)](https://github.com/DeminiRajakaruna/github-readme-stats) 
 
 
 
