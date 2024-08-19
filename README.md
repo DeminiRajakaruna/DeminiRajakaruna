@@ -54,18 +54,6 @@ conserve the time and energy of living beings.
 <br>  
 <hr>
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My Repositories...***
-<p align="left">
-
-
- * [Fitness Guardian]()
- * [Maze Game]()
- * [Web Cart for Hospitals]()
- * [Green Dinosaur Game]()
- * [School Club Management System]()
- * [Car Service Management System]()
-
-<hr>
 
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Support...***
